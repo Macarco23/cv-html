@@ -1,0 +1,53 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+h1 {
+	margin: 0;
+}
+section {
+	padding: 20px;
+}
+h2 {
+	margin-top: 0;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style: none;
+	margin-bottom: 10px;
+}
+li span {
+	font-weight: bold;
+	display: inline-block;
+	width: 100px;
+}
+a {
+	color: #333;
+	text-decoration: none;
+}
+.photo {
+	text-align: center;
+}
+.photo img {
+	max-width: 100%;
+	max-height: 100%;
+}
+.contact-button {
+	display: block;
+	margin: 20px auto;
+	padding: 10px 20px;
+	background-color: #333;
+	color: #fff;
+	
+}
